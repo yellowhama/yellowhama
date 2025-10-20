@@ -9,6 +9,38 @@
 1. **범용 게임 개발 도구 가이드**: Claude Code, MCP 서버 등 게임 개발에 활용 가능한 자동화 도구 사용법
 2. **크로스머신 이어하기 자료**: 다른 컴퓨터에서 프로젝트를 시작할 때 필요한 설정 및 워크플로우 가이드
 
+## 프로젝트 목록
+
+### 1. BLOODLINE (Medieval Fantasy Open World RPG)
+- **장르**: 중세 판타지 오픈월드 RPG
+- **엔진**: [엔진명]
+- **문서**: [projects/bloodline/DEVELOPMENT.md](projects/bloodline/DEVELOPMENT.md)
+- **성과**:
+  - 개발 속도 4.3배 향상
+  - 테스트 작성 시간 70% 단축
+  - 버그 수정 시간 60% 단축
+  - 문서화 시간 80% 단축
+
+### 2. Football (스포츠 관리 게임)
+- **장르**: 턴제 전략/관리 시뮬레이션
+- **엔진**: Godot 4.4.1
+- **플랫폼**: 크로스플랫폼 (Mobile/Tablet/Desktop)
+- **문서**: [projects/football/DEVELOPMENT.md](projects/football/DEVELOPMENT.md)
+- **주요 기술**:
+  - 반응형 UI (AdaptiveLayoutContainer 패턴)
+  - 동적 UI 생성 (540개 노드 자동 생성)
+  - 자동화된 접근성 검증 (UIStandards 시스템)
+- **성과**:
+  - 코드 품질 점수 9.2/10
+  - 리팩토링으로 66% 코드 감소
+  - Phase 기반 증분 개발로 100% 완료율 달성
+
+---
+
+**두 프로젝트의 상세 비교는 [PROJECTS.md](PROJECTS.md)를 참고하세요.**
+
+---
+
 ## 📖 포함된 가이드 (Included Guides)
 
 ### 1. CLAUDE_CODE_MASTER_GUIDE.md (66KB)
